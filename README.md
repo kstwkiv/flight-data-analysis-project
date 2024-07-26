@@ -66,9 +66,3 @@ Distribution of flights by departure time and arrival time
 ## Conclusion 
 
 By applying data analysis techniques to this comprehensive dataset, this study aims to provide a deeper understanding of the complex dynamics driving the aviation industry, ultimately informing data-driven decisions that can improve customer satisfaction, increase revenue, and enhance operational efficiency.
-
-Arrival Times: Most flights arrived at night, followed by morning, afternoon, and evening.
-
-Departure Times: Most flights departed in the morning, followed by evening, afternoon, and night.
-
-Ticket Prices: The maximum ticket price was 2,512,780, and the minimum ticket price was 5,949.
