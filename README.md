@@ -1,14 +1,14 @@
-# Flight Data Analysis
+![image](https://github.com/user-attachments/assets/58efc1b9-f546-493e-9fbc-44f9060ad13c)# Flight Data Analysis
 
 ## Introduction
 
-This repository contains the exploratory data analysis (EDA) of a dataset detailing airline flights from Delhi to Mumbai. 
+This repository contains the exploratory data analysis (EDA) of a dataset detailing airline flights. 
 
 The dataset includes various attributes of flights such as airline, flight number, departure and arrival times, stops, class, duration, days left until departure, price, and date of the flight.
 
 ## Dataset
 
-The dataset consists of 359 rows and 13 columns. Below are the columns present in the dataset:
+The dataset consists of 3,11,078 rows and 13 columns. Below are the columns present in the dataset:
 
 Unnamed: 0: An index column (can be ignored)
 
@@ -16,17 +16,17 @@ airline: The airline operating the flight
 
 flight: The flight number
 
-source_city: The city from which the flight departs (all flights are from Delhi)
+source_city: The city from which the flight departs 
 
 departure_time: Time of day the flight departs (Morning, Afternoon, Evening, Night)
 
-stops: Number of stops (zero, one)
+stops: Number of stops (zero, one, two_or_more)
 
 arrival_time: Time of day the flight arrives (Morning, Afternoon, Evening, Night)
 
-destination_city: The city where the flight arrives (all flights are to Mumbai)
+destination_city: The city where the flight arrives 
 
-class: The class of travel (Economy)
+class: The class of travel 
 
 duration: Duration of the flight in hours
 
@@ -63,22 +63,9 @@ Price variation over time
 
 Distribution of flights by departure time and arrival time
 
+## Conclusion 
 
-## Conclusion
-
-Top Airlines: Vistara is the top airline with the highest number of flights, followed by Air India.
-
-Price Peaks: The average price of flight tickets was highest between 15-08-2018 to 20-08-2018.
-
-Class: All flights were in the Economy class.
-
-Stops: Most flights have zero stops, but some have one stop.
-
-Cities: The source city for all flights is Delhi, and the destination city is Mumbai.
-
-Days Left: The highest number of flights are scheduled with 1 day left until departure.
-
-Flight Duration: Flight UK-977 is noted as having the highest duration among all flights.
+By applying data analysis techniques to this comprehensive dataset, this study aims to provide a deeper understanding of the complex dynamics driving the aviation industry, ultimately informing data-driven decisions that can improve customer satisfaction, increase revenue, and enhance operational efficiency.
 
 Arrival Times: Most flights arrived at night, followed by morning, afternoon, and evening.
 
