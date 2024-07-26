@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/58efc1b9-f546-493e-9fbc-44f9060ad13c)# Flight Data Analysis
+# Flight Data Analysis
 
 ## Introduction
 
